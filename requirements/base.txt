@@ -1,4 +1,0 @@
-ipython[notebook]
-mock
-eventlet
-taskflow
